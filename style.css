@@ -1,0 +1,12 @@
+
+.content-box{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+.tug-bot-box{
+    width: 600px;
+    height: 600px;
+}
